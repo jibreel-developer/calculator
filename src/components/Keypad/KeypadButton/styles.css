@@ -1,0 +1,3 @@
+.keypad-btn {
+  width: calc(25% - 3px);
+}

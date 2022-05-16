@@ -1,0 +1,8 @@
+.display {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 1.5em;
+  text-align: right;
+  background-color: #fff;
+}
